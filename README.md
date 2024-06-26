@@ -41,11 +41,30 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
 ## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/SekharSunkara6/Crypto-Price-Monitor.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd Crypto-Price-Monitor
+    ```
+
+3. Install the required dependencies:
+    ```bash
+    npm install
+    ```
+    or
+    ```bash
+    yarn install
+    ```
+
+## Running the Application
+
+To start the application in development mode:
+```bash
+npm start
 
