@@ -7,12 +7,12 @@
 
 2. Clone the repository:
     ```bash
-    git clone https://github.com/Prerana-Jadhav/crypto-tracker.git
+    git clone https://github.com/SekharSunkara6/Crypto-Price-Monitor.git
     ```
 
 3. Navigate to the project directory:
     ```bash
-    cd react-crypto-tracker-master
+    cd Crypto-Price-Monitor
     ```
 
 4. Install the required dependencies:
