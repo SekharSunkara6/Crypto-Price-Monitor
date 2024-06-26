@@ -1,5 +1,8 @@
 Design and develop a cryptocurrency tracking application as a mobile-first responsive web app using the SPA.
 
+# It was an react based poject, so create react app in file repository.
+  npx create-react-app my-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
